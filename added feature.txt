@@ -1,1 +1,2 @@
-this is an added feature.
+this is an added feature.  Look how it changed.
+Wow!
