@@ -1,2 +1,2 @@
-this is an added feature.  Look how it changed.
+this is another feature.  Look how it changed.
 Wow!
